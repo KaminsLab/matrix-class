@@ -1,0 +1,448 @@
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- argument "rows" = 0
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- argument "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- argument "rows" = 0
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- argument "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- argument "rows" = 0
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- argument "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "rows" = 3
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-18 21:08::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix- field "columns" = 4
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2020-07-21 21:11::47[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 1.0 2.0 10.0 45.0
+ 3.0 1.0 11.0 18.0
+ 32.0 0.0 12.0 9.0
+
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2020-07-21 21:11::47[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 5.0 6.0 22.0 1.0
+ 33.0 19.0 1.0 8.0
+ 2.0 50.0 3.0 29.0
+
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2020-07-21 21:11::47[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 6.0 8.0 32.0 46.0
+ 36.0 20.0 12.0 26.0
+ 34.0 50.0 15.0 38.0
+
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-07-21 21:11::47[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2020-07-21 21:13::10[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 1.0 2.0 10.0 45.0
+ 3.0 1.0 11.0 18.0
+ 32.0 0.0 12.0 9.0
+
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2020-07-21 21:13::10[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 5.0 6.0 22.0 1.0
+ 33.0 19.0 1.0 8.0
+ 2.0 50.0 3.0 29.0
+
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2020-07-21 21:13::10[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 6.0 8.0 32.0 46.0
+ 36.0 20.0 12.0 26.0
+ 34.0 50.0 15.0 38.0
+
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-07-21 21:13::10[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2020-07-21 21:13::10[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+ 1.0 8.0 32.0 46.0
+ NaN NaN NaN NaN
+ NaN NaN NaN NaN
+
+2020-07-21 21:13::10[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 3
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 3
+2020-07-21 21:20::54[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 1.0 2.0 3.0
+ 3.0 6.0 9.0
+ 11.0 1.0 1.0
+
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 3
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 0
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:20::54[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 6.0 9.0
+ 1.0 1.0
+
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 1
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:20::54[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 2.0 3.0
+ 1.0 1.0
+
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:20::54[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 2.0 3.0
+ 6.0 9.0
+
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:20::54[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 3
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 3
+2020-07-21 21:23::06[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 1.0 2.0 3.0
+ 3.0 6.0 9.0
+ 11.0 1.0 1.0
+
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 3
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 0
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:23::06[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 6.0 9.0
+ 1.0 1.0
+
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 1
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:23::06[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 2.0 3.0
+ 1.0 1.0
+
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:23::06[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 2.0 3.0
+ 6.0 9.0
+
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:23::06[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 3
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 3
+2020-07-21 21:25::04[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 1.0 2.0 3.0
+ 3.0 6.0 9.0
+ 11.0 1.0 1.0
+
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 3
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 0
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:25::04[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 6.0 9.0
+ 1.0 1.0
+
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 1
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:25::04[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 2.0 3.0
+ 1.0 1.0
+
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "iRow" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 0
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 2
+2020-07-21 21:25::04[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+ 2.0 3.0
+ 6.0 9.0
+
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 2
+2020-07-21 21:25::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 2
+2020-07-31 23:16::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-31 23:16::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2020-07-31 23:16::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-31 23:16::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2020-07-31 23:17::55[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-31 23:17::55[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-07-31 23:17::55[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-31 23:17::55[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-07-31 23:17::55[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-07-31 23:17::55[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-07-31 23:17::55[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-07-31 23:17::55[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+Matrix3x5:
+ 1.0 1.0 -1.0 -2.0 0.0
+ NaN NaN NaN NaN NaN
+ NaN NaN NaN NaN NaN
+
+2020-07-31 23:17::55[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2020-07-31 23:40::49[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-07-31 23:40::49[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-07-31 23:40::49[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-07-31 23:40::49[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-07-31 23:40::49[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-07-31 23:40::49[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-07-31 23:40::49[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-07-31 23:40::49[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+Matrix 3x5:
+ 1.0 1.0 -1.0 -2.0 0.0
+ NaN NaN NaN NaN NaN
+ NaN NaN NaN NaN NaN
+
+2020-07-31 23:40::49[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2020-08-01 15:35::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-01 15:35::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-01 15:35::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-01 15:35::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-01 15:35::57[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-01 15:35::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-01 15:35::57[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-01 15:35::57[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+Matrix 3x5:
+ 1.0 1.0 -1.0 -2.0 0.0
+ 0.0 1.0 6.0 0.0 -4.0
+ 0.0 0.0 1.0 1.0 -7.0
+
+2020-08-01 15:35::57[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2020-08-03 15:25::44[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:25::44[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:25::44[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:25::44[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:25::44[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:25::44[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:25::44[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:25::44[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:29::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:29::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:29::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:29::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:29::09[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:29::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:29::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:29::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:29::28[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:29::28[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:29::28[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:29::28[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:29::28[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:29::28[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:29::28[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:31::13[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:31::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:31::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:31::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:31::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:31::34[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:31::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:31::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:31::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:32::16[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:32::16[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:32::16[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:32::16[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:32::16[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:32::16[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:32::16[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:32::16[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:35::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:35::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:35::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:35::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:35::35[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:35::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:35::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:35::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:35::35[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Max of column0 = 4.0
+2020-08-03 15:35::35[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Matrix after swap of rows:
+2020-08-03 15:35::35[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+Matrix 3x5:
+ 0.0 0.0 1.0 1.0 -7.0
+ 0.0 1.0 6.0 0.0 -4.0
+ 0.0 0.0 1.0 1.0 -7.0
+
+2020-08-03 15:35::35[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2020-08-03 15:36::24[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:36::24[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:36::24[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:36::24[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:36::24[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:36::24[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:36::24[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:36::24[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:36::24[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Max of column0 = 4.0
+2020-08-03 15:36::24[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Matrix after swap of rows:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 -7.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:36::24[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+Matrix 3x5:
+ 0.0 0.0 1.0 1.0 -7.0
+ 0.0 1.0 6.0 0.0 -4.0
+ 0.0 0.0 1.0 1.0 -7.0
+
+2020-08-03 15:36::24[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2020-08-03 15:37::29[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2020-08-03 15:37::29[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2020-08-03 15:37::29[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2020-08-03 15:37::29[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2020-08-03 15:37::29[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2020-08-03 15:37::29[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2020-08-03 15:37::29[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2020-08-03 15:37::29[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2020-08-03 15:37::29[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Max of column0 = 4.0
+2020-08-03 15:37::29[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Matrix after swap of rows:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 -7.0
+ 2.0 2.0 6.0 0.0 -4.0
+ -1.0 1.0 -1.0 -2.0 0.0
+
+2020-08-03 15:37::29[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+Matrix 3x5:
+ 1.0 3.0 11.0 1.0 -7.0
+ 0.0 1.0 6.0 0.0 -4.0
+ -0.0 -0.0 1.0 -2.0 0.0
+
+2020-08-03 15:37::29[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
