@@ -1,0 +1,234 @@
+
+\
+java:S3457X"AFormat specifiers should be used instead of string concatenation.(¹×çùÿÿÿÿ
+d
+java:S3457™"AFormat specifiers should be used instead of string concatenation.(‚¢Ğ³ıÿÿÿÿ8íÂ¥€û.
+I
+java:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Z
+java:S2629™"7Use the built-in formatting to construct this argument.(‚¢Ğ³ıÿÿÿÿ8íÂ¥€û.
+_
+java:S3457¢"AFormat specifiers should be used instead of string concatenation.(ÌÌ»ƒ8íÂ¥€û.
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¹×çùÿÿÿÿ
+W
+java:S3457ê"AFormat specifiers should be used instead of string concatenation.(è·×|
+_
+java:S3457¬"AFormat specifiers should be used instead of string concatenation.(‘°ğ²8íÂ¥€û.
+B
+java:S1481ï"&Remove this unused "m" local variable.(­õÑºüÿÿÿÿ
+R
+java:S2629c"7Use the built-in formatting to construct this argument.(»Ã·ºüÿÿÿÿ
+]
+java:S3457‘"AFormat specifiers should be used instead of string concatenation.(—º›ûÿÿÿÿ
+0
+java:S1700"Rename field "matrix"(–Û©·úÿÿÿÿ
+d
+java:S3457§"AFormat specifiers should be used instead of string concatenation.(½×Ú»úÿÿÿÿ8íÂ¥€û.
+\
+java:S3457U"AFormat specifiers should be used instead of string concatenation.(¼ù“¡şÿÿÿÿ
+U
+java:S2629Ÿ"7Use the built-in formatting to construct this argument.(®ÙÁ8íÂ¥€û.
+]
+java:S1117¶":Rename "matrix" which hides the field declared at line 14.(ìâ­ìúÿÿÿÿ8íÂ¥€û.
+r
+java:S1192A"WDefine a constant instead of duplicating this literal "Matrix points to null." 4 times.(©üÌÉüÿÿÿÿ
+9
+java:S1659Ş""Declare "temp" on a separate line.(êé™¿
+X
+java:S3457ş"AFormat specifiers should be used instead of string concatenation.(Ê×â®
+;
+java:S1659İ"Declare "m" on a separate line.(­õÑºüÿÿÿÿ
+]
+java:S3457¿"AFormat specifiers should be used instead of string concatenation.(—ÒÒ—ıÿÿÿÿ
+Z
+java:S2629ğ"7Use the built-in formatting to construct this argument.(ËÛÆÿÿÿÿÿ8íÂ¥€û.
+P
+java:S1117z":Rename "matrix" which hides the field declared at line 14.(ú›í
+q
+java:S1192T"VDefine a constant instead of duplicating this literal "Invalid index of row." 4 times.(ô»¤üÿÿÿÿ
+]
+java:S3457¢"AFormat specifiers should be used instead of string concatenation.(üÇ¡úÿÿÿÿ
+R
+java:S26290"7Use the built-in formatting to construct this argument.(ê¼Í¿ÿÿÿÿÿ
+\
+java:S3457I"AFormat specifiers should be used instead of string concatenation.(ıÀ™ûÿÿÿÿ
+]
+java:S3457÷"AFormat specifiers should be used instead of string concatenation.(ø±õßùÿÿÿÿ
+d
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ü‘Ó„üÿÿÿÿ8íÂ¥€û.
+_
+java:S3457¨"AFormat specifiers should be used instead of string concatenation.(œĞªî8íÂ¥€û.
+U
+java:S2629¢"7Use the built-in formatting to construct this argument.(ÌÌ»ƒ8íÂ¥€û.
+;
+java:S1659ï"Declare "m" on a separate line.(­õÑºüÿÿÿÿ
+U
+java:S2629¨"7Use the built-in formatting to construct this argument.(œĞªî8íÂ¥€û.
+R
+java:S2629:"7Use the built-in formatting to construct this argument.(»Œºùÿÿÿÿ
+l
+java:S1192Z"VDefine a constant instead of duplicating this literal "Argument \"value\" = " 4 times.(ùåêô
+I
+java:S1199Œ"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+S
+java:S2629º"7Use the built-in formatting to construct this argument.(üÇ¡úÿÿÿÿ
+\
+java:S3457)"AFormat specifiers should be used instead of string concatenation.(½ü×öûÿÿÿÿ
+M
+java:S2629E"7Use the built-in formatting to construct this argument.(éõÁ–
+@
+java:S1659½""Declare "temp" on a separate line.(—¬‚è8íÂ¥€û.
+\
+java:S3457:"AFormat specifiers should be used instead of string concatenation.(»Œºùÿÿÿÿ
+S
+java:S2629ı"7Use the built-in formatting to construct this argument.(•‰ªéşÿÿÿÿ
+s	java:S127±"XRefactor the code in order to not assign to this loop counter from within the loop body.(¹óİœÿÿÿÿÿ
+]
+java:S3457ë"AFormat specifiers should be used instead of string concatenation.(îÕøŸøÿÿÿÿ
+I
+java:S1199‰"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+\
+java:S3457c"AFormat specifiers should be used instead of string concatenation.(»Ã·ºüÿÿÿÿ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(¹×çùÿÿÿÿ
+U
+java:S2629ÿ"7Use the built-in formatting to construct this argument.(§¾›–8íÂ¥€û.
+X
+java:S3457Ì"AFormat specifiers should be used instead of string concatenation.(ª§ù¤
+B
+java:S1659®"Declare "m" on a separate line.(­õÑºüÿÿÿÿ8íÂ¥€û.
+N
+java:S2629Ì"7Use the built-in formatting to construct this argument.(ª§ù¤
+d
+java:S3457Ì"AFormat specifiers should be used instead of string concatenation.(¦ÎÙşüÿÿÿÿ8íÂ¥€û.
+\
+java:S3457["AFormat specifiers should be used instead of string concatenation.(»Ã·ºüÿÿÿÿ
+o
+java:S3012~"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(±…¹…
+]
+java:S3457º"AFormat specifiers should be used instead of string concatenation.(üÇ¡úÿÿÿÿ
+R
+java:S2629)"7Use the built-in formatting to construct this argument.(½ü×öûÿÿÿÿ
+d
+java:S3457"AFormat specifiers should be used instead of string concatenation.(®ÿ÷İüÿÿÿÿ8íÂ¥€û.
+S
+java:S2629¢"7Use the built-in formatting to construct this argument.(üÇ¡úÿÿÿÿ
+z
+java:S1192ğ"cDefine a constant instead of duplicating this literal "Method \"transpose\" started work." 3 times.(ËƒÛå
+R
+java:S2629U"7Use the built-in formatting to construct this argument.(¼ù“¡şÿÿÿÿ
+t
+java:S1192W"YDefine a constant instead of duplicating this literal "Invalid index of column." 4 times.(“í¶­ùÿÿÿÿ
+S
+java:S2629¿"7Use the built-in formatting to construct this argument.(—ÒÒ—ıÿÿÿÿ
+;
+java:S1659€"Declare "m" on a separate line.(­õÑºüÿÿÿÿ
+]
+java:S1117¯":Rename "matrix" which hides the field declared at line 14.(ìÕèşÿÿÿÿ8íÂ¥€û.
+;
+java:S1659Ÿ"Declare "m" on a separate line.(­õÑºüÿÿÿÿ
+N
+java:S2629Ô"7Use the built-in formatting to construct this argument.(ìé±ß
+u
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(îñøíşÿÿÿÿ8íÂ¥€û.
+_
+java:S3457ÿ"AFormat specifiers should be used instead of string concatenation.(§¾›–8íÂ¥€û.
+]
+java:S3457ò"AFormat specifiers should be used instead of string concatenation.(ùêâÃúÿÿÿÿ
+?
+java:S1643Â"Use a StringBuilder instead.(ãÁ£ıÿÿÿÿ8íÂ¥€û.
+Z
+java:S2629§"7Use the built-in formatting to construct this argument.(½×Ú»úÿÿÿÿ8íÂ¥€û.
+W
+java:S3457E"AFormat specifiers should be used instead of string concatenation.(éõÁ–
+L
+java:S2629O"7Use the built-in formatting to construct this argument.(ïÄ.
+X
+java:S3457¥"AFormat specifiers should be used instead of string concatenation.(ìé±ß
+J
+java:S1481ƒ",Remove this unused "columns" local variable.(ÛÜ8Ãî¬€û.
+Z
+java:S2629Ì"7Use the built-in formatting to construct this argument.(¦ÎÙşüÿÿÿÿ8íÂ¥€û.
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(ã‰Ï¡
+¥
+java:S2681î"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(›É›­8íÂ¥€û.
+Q
+java:S1854ï"5Remove this useless assignment to local variable "m".(­õÑºüÿÿÿÿ
+]
+java:S3457ı"AFormat specifiers should be used instead of string concatenation.(•‰ªéşÿÿÿÿ
+^
+java:S3457Ï"AFormat specifiers should be used instead of string concatenation.(°õâ*8íÂ¥€û.
+a
+java:S1854">Remove this useless assignment to local variable "compressed".(ïÆÆ›üÿÿÿÿ8Ãî¬€û.
+S
+java:S2629‘"7Use the built-in formatting to construct this argument.(—º›ûÿÿÿÿ
+T
+java:S2629¶"7Use the built-in formatting to construct this argument.(ëŸ8íÂ¥€û.
+M
+java:S2629ê"7Use the built-in formatting to construct this argument.(è·×|
+S
+java:S2629ò"7Use the built-in formatting to construct this argument.(ùêâÃúÿÿÿÿ
+T
+java:S2629Ï"7Use the built-in formatting to construct this argument.(°õâ*8íÂ¥€û.
+Z
+java:S2629"7Use the built-in formatting to construct this argument.(®ÿ÷İüÿÿÿÿ8íÂ¥€û.
+t
+java:S3012N"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(áŞù—ûÿÿÿÿ
+]
+java:S3457Š"AFormat specifiers should be used instead of string concatenation.(¼ù“¡şÿÿÿÿ
+R
+java:S2629["7Use the built-in formatting to construct this argument.(»Ã·ºüÿÿÿÿ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+\
+java:S34570"AFormat specifiers should be used instead of string concatenation.(ê¼Í¿ÿÿÿÿÿ
+R
+java:S1117ƒ";Rename "columns" which hides the field declared at line 15.(ÛÜ
+^
+java:S3457¶"AFormat specifiers should be used instead of string concatenation.(ëŸ8íÂ¥€û.
+X
+java:S3457Ô"AFormat specifiers should be used instead of string concatenation.(ìé±ß
+d
+java:S3457ğ"AFormat specifiers should be used instead of string concatenation.(ËÛÆÿÿÿÿÿ8íÂ¥€û.
+_
+java:S3457Ÿ"AFormat specifiers should be used instead of string concatenation.(®ÙÁ8íÂ¥€û.
+R
+java:S2629I"7Use the built-in formatting to construct this argument.(ıÀ™ûÿÿÿÿ
+n	java:S127®"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰¨óĞ
+B
+java:S1659Ğ"Declare "m" on a separate line.(­õÑºüÿÿÿÿ8íÂ¥€û.
+S
+java:S2629÷"7Use the built-in formatting to construct this argument.(ø±õßùÿÿÿÿ
+_
+java:S3457È"AFormat specifiers should be used instead of string concatenation.(œ¿Ó¦8íÂ¥€û.
+S
+java:S2629Š"7Use the built-in formatting to construct this argument.(¼ù“¡şÿÿÿÿ
+;
+java:S1659"%Declare "columns" on a separate line.(¹íøÒ
+V
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(ïÄ.
+_
+java:S3457ä"AFormat specifiers should be used instead of string concatenation.(¶ô‡˜8íÂ¥€û.
+S
+java:S2629ë"7Use the built-in formatting to construct this argument.(îÕøŸøÿÿÿÿ
+>
+java:S2129¾" Remove this "String" constructor(Ã‰¡8íÂ¥€û.
+U
+java:S2629¬"7Use the built-in formatting to construct this argument.(‘°ğ²8íÂ¥€û.
+R
+java:S2629X"7Use the built-in formatting to construct this argument.(¹×çùÿÿÿÿ
+Z
+java:S2629"7Use the built-in formatting to construct this argument.(Ü‘Ó„üÿÿÿÿ8íÂ¥€û.
+N
+java:S2629¥"7Use the built-in formatting to construct this argument.(ìé±ß
+N
+java:S2629ş"7Use the built-in formatting to construct this argument.(Ê×â®
+U
+java:S2629ä"7Use the built-in formatting to construct this argument.(¶ô‡˜8íÂ¥€û.
+k
+java:S3973è"HUse indentation to denote the code conditionally executed by this "for".(¨«²¢üÿÿÿÿ8íÂ¥€û.
+n	java:S127Ü"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰¨óĞ
+;
+java:S1659Ñ"Declare "m" on a separate line.(­õÑºüÿÿÿÿ
+U
+java:S2629È"7Use the built-in formatting to construct this argument.(œ¿Ó¦8íÂ¥€û.

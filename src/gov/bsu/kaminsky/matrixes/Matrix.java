@@ -341,10 +341,10 @@ public class Matrix {
 
         double[][] compressed = new double[n][m - 1];
 
-        for (int i = 0, row = 0; i < n; i++)
+        for (int i = 0; i < n; i++)
             for (int j = 0, column = 0; j < m; j++)
                 if (j != jColumn) {
-                    compressed[row][column] = matrix[i][j];
+                    compressed[i][column] = matrix[i][j];
                     column++;
                 }
 
@@ -390,14 +390,13 @@ public class Matrix {
             for (int j = 0; j < m; j++)
                 if (matrix[i][j] == element) {
                     compressed = removeColumn(j);
-                    columns++;
+                    setColumns(m - 1);
+                    setMatrix(compressed);
                     exist = true;
                 }
         if (!exist)
             throw new IllegalArgumentException("There is no number " + element + "in the matrix.");
 
-        setMatrix(compressed);
-        setColumns(m - columns);
         LOGGER.log(Level.INFO, "Compressed matrix:\n" + this);
     }
 

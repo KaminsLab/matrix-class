@@ -446,3 +446,364 @@ Matrix 3x5:
  -0.0 -0.0 1.0 -2.0 0.0
 
 2020-08-03 15:37::29[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2021-02-17 15:30::00[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:30::00[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:30::00[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:30::00[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:30::00[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:30::00[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:30::00[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:30::00[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2021-02-17 15:30::00[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Max of column0 = 4.0
+2021-02-17 15:30::00[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Matrix after swap of rows:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 -7.0
+ 2.0 2.0 6.0 0.0 -4.0
+ -1.0 1.0 -1.0 -2.0 0.0
+
+2021-02-17 15:30::00[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Stepped view of matrix:
+Matrix 3x5:
+ 1.0 3.0 11.0 1.0 -7.0
+ 0.0 1.0 6.0 0.0 -4.0
+ -0.0 -0.0 1.0 -2.0 0.0
+
+2021-02-17 15:30::00[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Rank of the matrix = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:32::30[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:32::30[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:32::30[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:32::30[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ 4.0 3.0 11.0 1.0
+ 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0
+
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:32::30[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "column" = 0
+2021-02-17 15:32::30[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Max of column0 = 4.0
+2021-02-17 15:32::30[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Matrix after swap of rows:
+Matrix 3x4:
+ 4.0 3.0 11.0 1.0
+ 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0
+
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:33::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:33::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:33::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:33::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ 4.0 3.0 11.0 1.0
+ 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0
+
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:33::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:36::56[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:36::56[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:36::56[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:36::56[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:36::56[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:36::56[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:36::56[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:37::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:37::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:37::14[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:37::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:37::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:37::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:37::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:37::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:37::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:37::34[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+
+2021-02-17 15:37::34[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:37::34[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ 4.0 3.0 11.0 1.0
+ 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0
+
+2021-02-17 15:37::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:37::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:38::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:38::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:38::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:38::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:38::04[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:38::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:38::04[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:38::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:38::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:38::27[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:38::48[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:38::48[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:38::49[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:41::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:45::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:45::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:45::14[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+
+2021-02-17 15:45::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:45::14[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ 4.0 3.0 11.0 1.0
+ 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0
+
+2021-02-17 15:45::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::14[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:45::22[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:45::22[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:45::22[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:45::22[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:45::22[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:45::22[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::22[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:45::27[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:45::27[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+
+2021-02-17 15:45::27[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:45::27[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ 4.0 3.0 11.0 1.0
+ 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0
+
+2021-02-17 15:45::33[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::33[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:45::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:45::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:45::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:45::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:45::35[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:45::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::35[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:45::37[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::37[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:45::37[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:45::42[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:45::42[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:45::42[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:46::02[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:46::43[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:46::43[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:46::43[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ 4.0 3.0 11.0 1.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0 0.0
+
+2021-02-17 15:46::43[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:46::43[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ 4.0 3.0 11.0 1.0
+ 0.0 0.0 0.0 0.0
+ 0.0 0.0 0.0 0.0
+
+2021-02-17 15:46::43[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:46::43[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:46::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:46::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:46::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 0.0
+ 4.0 3.0 11.0 1.0 0.0
+
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:46::50[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ -1.0 1.0 -1.0 -2.0
+ 2.0 2.0 6.0 0.0
+ 4.0 3.0 11.0 1.0
+
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:46::50[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:49::09[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:49::09[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2021-02-17 15:49::09[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x4:
+ -1.0 1.0 -1.0 -2.0
+ 2.0 2.0 6.0 0.0
+ 4.0 3.0 11.0 1.0
+
+2021-02-17 15:49::09[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ -1.0 1.0 -1.0 -2.0
+ 2.0 2.0 6.0 0.0
+ 4.0 3.0 11.0 1.0
+
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:49::09[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "rows" = 3
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 5
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 5
+2021-02-17 15:51::11[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x5:
+ -1.0 1.0 -1.0 -2.0 0.0
+ 2.0 2.0 6.0 0.0 -4.0
+ 4.0 3.0 11.0 1.0 -7.0
+
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:51::11[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Minimal element of matrix = -7.0
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 5
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument element = -7.0
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "jColumn" = 4
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Argument "columns" = 4
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "rows" = 3
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - Field "columns" = 4
+2021-02-17 15:51::11[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Setted matrix:
+Matrix 3x4:
+ -1.0 1.0 -1.0 -2.0
+ 2.0 2.0 6.0 0.0
+ 4.0 3.0 11.0 1.0
+
+2021-02-17 15:51::11[main]INFO gov.bsu.kaminsky.matrixes.Matrix - Compressed matrix:
+Matrix 3x4:
+ -1.0 1.0 -1.0 -2.0
+ 2.0 2.0 6.0 0.0
+ 4.0 3.0 11.0 1.0
+
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "rows" = 3
+2021-02-17 15:51::11[main]DEBUGgov.bsu.kaminsky.matrixes.Matrix - field "columns" = 4
