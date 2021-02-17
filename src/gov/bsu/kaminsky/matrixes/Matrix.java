@@ -390,7 +390,8 @@ public class Matrix {
             for (int j = 0; j < m; j++)
                 if (matrix[i][j] == element) {
                     compressed = removeColumn(j);
-                    setColumns(m - 1);
+                    setColumns(--m);
+                    j--;
                     setMatrix(compressed);
                     exist = true;
                 }
